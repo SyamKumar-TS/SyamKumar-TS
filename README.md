@@ -59,7 +59,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <div align="left">
-<a href="https://www.linkedin.com/in/Syam Kumar/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+<a href="https://www.linkedin.com/in/Syam Kumar/"><img src="https://www.linkedin.com/in/syam-kumar-b70b3b24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="35" alt="linkedin logo" /></a>
 <a href="https://www.twitter.com/5yam_Kumar"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" /></a>
   <a href="https://www.instagram.com/_5yam_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   
