@@ -56,9 +56,7 @@
 
 <div align="left">
 <a href="https://www.linkedin.com/in/syam-kumar-b70b3b24b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-
   <a href="https://www.instagram.com/_5yam_"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  
   <a href="mailto:syamk2222@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <!-- <img align="right" loading="lazy" src="https://i.pinimg.com/originals/cf/5c/a4/cf5ca44013b0546d7f1c56f04f601c65.gif" /> -->
   </div>
