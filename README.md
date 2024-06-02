@@ -3,6 +3,7 @@
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MCA+Student+at+CET%2C+Trivandrum;Developer;Tech+Enthusiast" alt="Typing SVG" />
     </div>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 <div align="center">
